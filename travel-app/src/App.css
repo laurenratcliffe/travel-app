@@ -1,0 +1,19 @@
+/* need setup snippet */
+* { 
+  font-family: 'Nunito Sans', sans-serif;
+  margin: 0;
+}
+
+h1 { 
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 5vh;
+  z-index: 100;
+  text-align: left;
+  color:white;
+  background-color: hsla(0, 0%, 0%, 0.199);
+  font-size: 2rem;
+}
+
